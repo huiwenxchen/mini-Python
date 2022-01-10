@@ -17,3 +17,5 @@ To run Cash, execute $ python cash.py and wait for the prompt to input the chang
       $ python cash.py
       Change Owed: 1.77
       9
+
+Readability computes the Coleman-Liau index of text input. To run the program, execute $ python readability.py and wait for the prompt to input text.
